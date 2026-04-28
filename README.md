@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--# 💫 About Me:
 ## 👨‍💻 About Me<br><br>- 🎓 Computer Science student passionate about programming  <br>- 💻 Skillls:- Java,HTML,CSS,Javascript<br>- 🚀 Built projects like ATM Machine, Student Management System & Number Guessing Game  <br>- 🌱 Currently learning Data Structures & Algorithms  <br>- ⚡ Interested in software development and problem solving  
