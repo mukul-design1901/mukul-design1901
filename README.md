@@ -2,8 +2,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about programming  
-- 💻 Skills: Java, HTML, CSS, JavaScript  
-- 🚀 Built projects like ATM Machine, Student Management System & Number Guessing Game  
+- 💻 Skills: Java, HTML, CSS  
+- 🚀 Built projects like Banking Information System,Personal Portfolio, Student Management System & Number Guessing Game  
 - 🌱 Currently learning Data Structures & Algorithms  
 - ⚡ Interested in Software Development and Problem Solving  
 
